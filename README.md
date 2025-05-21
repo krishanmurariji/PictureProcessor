@@ -18,7 +18,7 @@ Hi, I’m **Krishan Murari** – a Web Developer & Designer with a passion for c
 
 ### 🌐 Connect with Me
 
-- 🔗 [Portfolio](https://krishan-murari-portfolio.vercel.app/)
+- 🔗 [Portfolio](https://www.krishanmurari.live/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishan-murari/)
 - 🐦 [Twitter](https://twitter.com/KrishanMuraari)
 - 📷 [Instagram](https://www.instagram.com/krishanmurariji/)
